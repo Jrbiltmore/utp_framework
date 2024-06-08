@@ -1,4 +1,5 @@
 # Universal Theoretical Physics Framework
+Jacob Thomas Messer
 
 ## Overview
 
